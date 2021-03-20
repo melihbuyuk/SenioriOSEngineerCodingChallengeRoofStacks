@@ -6,7 +6,6 @@ A coding challenge for prospective Senior iOS Developers applying for a role on 
 - [Goals](#goals)
 - [Preparing Your Local Development Env](#preparing-your-local-development-env)
 - [Submission Details and Evaluation Criteria](#submission-details-and-evaluation-criteria)
-	- [Assignment](#assignment)
 	- [Evaluation and Scoring](#evaluation-and-scoring)
 		- [Scoring](#scoring)
 - [Dev Team Swift and iOS Documentation Standards](#dev-team-swift-and-ios-documentation-standards)
