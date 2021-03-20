@@ -67,8 +67,6 @@ In order to set transparent expectations, the following list enumerates the *min
 
 ## Preparing Your Local Development Env
 
-- Make sure you have [enabled signed commits with a GPG key](#signed-commits-with-gpg) on any machine you use during your submission.
-	- 100% signed commits are required for any submission to be evaluated.
 - Check your local version of Xcode
 	- The very **latest release version** of Xcode is required.
 		- Beta versions of Xcode should **not** be used.
